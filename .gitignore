@@ -7,6 +7,11 @@ __pycache__/
 *.so
 
 .idea
+*.mid
+*.csv
+*.pkl
+*.pt
+*.h5
 
 # Distribution / packaging
 .Python
